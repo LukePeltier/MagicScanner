@@ -1,0 +1,1 @@
+Put image files into this directory
